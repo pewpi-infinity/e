@@ -1,5 +1,3 @@
-// Fix the script loader so E2–E8 actually load
-
 (function() {
     const modules = [
         ["E2_STYLE", "E2_STYLE.js"],
